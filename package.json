@@ -1,0 +1,8 @@
+{
+  "name": "andramanday.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GitAntarra/andramanday.com.git",
+  "author": "Andra",
+  "license": "MIT"
+}
